@@ -5,7 +5,7 @@ Repositório contendo relatório final corrigido e link para os vídeos de apres
 **Link para o vídeo de apresentação:**
 
 
-**Link para o vídeo promocional:**
+[Vídeo Promocional](https://youtu.be/SnORZYmqOMo) 
 
 
 **Link para o vídeo de montagem:**
